@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LinearLayoutTask</string>
+    <string name="name">Ahmed hassan</string>
+    <string name="engineer">Engineer</string>
+    <string name="russian">Russian</string>
+    <string name="_5_days_ago">5 Days ago</string>
+    <string name="_150_reviews">(150 Reviews)</string>
+    <string name="_4_5">4.5</string>
+</resources>
